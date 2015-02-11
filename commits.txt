@@ -1,0 +1,35 @@
+commit f0106babebbd2651df6563d90f5cfdd4a1a8a8ec
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Wed Feb 11 00:37:05 2015 +0100
+
+    Mise en jour Portfolio
+
+commit 041b0122f599d7c1d1395ee0018219c1579ec59a
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Wed Feb 11 00:34:50 2015 +0100
+
+    Mise en jour Presentation
+
+commit cd26b4a85d77539bb2d02950c2c36b6d379669b7
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Wed Feb 11 00:27:59 2015 +0100
+
+    Mise en jour liens socials
+
+commit fa6c006b6848237b9c93688aa2ee90c7b8a45a59
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Wed Feb 11 00:14:39 2015 +0100
+
+    Actualice mi perfil web
+
+commit 904932cebee45ce427b66186ca3b9ab8fb08cb5c
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Wed Feb 11 00:10:36 2015 +0100
+
+    Actualice mi informacion personal (imagen y foto)
+
+commit faf0fd147dcd5dcd856fe8880cc010663e1a766f
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Wed Feb 11 00:01:41 2015 +0100
+
+    Estos son los archivos base de mi portafolio
