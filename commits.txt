@@ -1,3 +1,40 @@
+commit 35e296bccf0cda45f22d8e67ae0d78e72a2df8f1
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Sat Feb 14 17:51:52 2015 +0100
+
+    Aumento de tamanio de fuente
+
+commit 99c56c544e0d27784dc36315deeb4f645eb6c825
+Merge: 7b8ad49 901eba5
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Sat Feb 14 17:35:01 2015 +0100
+
+    Merge branch 'experimental'
+
+commit 7b8ad4985d4b196d1db647356d6ac55e62f4e005
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Sat Feb 14 17:04:47 2015 +0100
+
+    Actualizacion Sitios
+
+commit 901eba5a0ecf05744875af542aca831651f0af80
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Sat Feb 14 17:01:25 2015 +0100
+
+    Cambio background a gris
+
+commit b8fb0475aa62d715e15d7f39c95c0cee11322093
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Sat Feb 14 16:55:07 2015 +0100
+
+    Cambio de background
+
+commit efdcf012c4e65535299af984dbb3ccd9b2415179
+Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
+Date:   Wed Feb 11 01:13:29 2015 +0100
+
+    Mise en jour 3 Portfolio
+
 commit 5e1024286ba6effaaabae5fb5e4a74edfd91ffff
 Author: Cesar Hernandez Antonio <cesar19_fr@outlook.com>
 Date:   Wed Feb 11 01:12:53 2015 +0100
